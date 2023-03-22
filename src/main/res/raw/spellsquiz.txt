@@ -1,0 +1,10 @@
+Accio$$Summons an object towards the caster.
+Alohomora$$Unlocks doors and other locked objects.
+Crucio$$Inflicts intense pain on the recipient of the curse.
+Expelliarmus$$Forces whatever an opponent is holding to fly out of their hand.
+Lumos$$Illuminates the tip of the caster's wand, allowing the caster to see in the dark.
+Morsmordre$$Conjures the Dark Mark, which is the sign of the Death Eaters. 
+Oculus Reparo$$Mends eyeglasses. 
+Obliviate$$Erases specific memories.
+Riddikulus$$A spell used when fighting a Boggart. 
+Sectumsempra$$Lacerates the target, as if they have been "slashed by a sword".

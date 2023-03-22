@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mobi-Quiz</string>
+    <string name="qNameTxtView">Pop Quiz!</string>
+    <string name="qOptionTxtView">Choose a Quiz:</string>
+    <string name="btnQFile1">Are You a Wizard?</string>
+    <string name="currentQTxtView">Quiz Questions</string>
+    <string name="progSeekBar">Questions Completed</string>
+    <string name="deffTxtView">definition</string>
+    <string name="btnTerm1">term 1</string>
+    <string name="btnTerm2">term 2</string>
+    <string name="btnTerm3">term3</string>
+    <string name="btnTerm4">term 4</string>
+    <string name="btnNext">Next</string>
+    <string name="resultsTxtView">Results</string>
+    <string name="btnHome">Go Home</string>
+</resources>
